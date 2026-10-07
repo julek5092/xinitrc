@@ -2,7 +2,7 @@ xrandr --output DisplayPort-1 --pos 0x0 --output DisplayPort-0 --pos 1920x0 --ou
 #xinput set-prop 11 "libinput Accel Speed" -0.90
 #xinput set-prop 11 "libinput Accel Speed" -0.95
 
-xinput set-prop 11 "libinput Accel Speed" -0.83
+xinput set-prop 11 "libinput Accel Speed" -0.60
 xinput set-prop 11 "libinput Accel Profile Enabled" 0 1
 
 xset s off
